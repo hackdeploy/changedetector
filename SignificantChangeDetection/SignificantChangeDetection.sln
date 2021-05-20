@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ChangeDetector", "ChangeDetector\ChangeDetector.pyproj", "{BFD6B232-0C24-4B61-9234-D7154D186D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD6B232-0C24-4B61-9234-D7154D186D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD6B232-0C24-4B61-9234-D7154D186D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0408254-B632-4FBF-9AD6-79B4F127CCF5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://marianocode.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ChangeDetector\\ChangeDetector.pyproj
+		SccProjectName1 = ChangeDetector
+		SccLocalPath1 = ChangeDetector
+	EndGlobalSection
+EndGlobal
